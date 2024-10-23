@@ -1,0 +1,11 @@
+.flex {
+    display: flex;
+}
+
+.logo {
+    height: 50px;
+}
+
+.footer {
+    background-color: silver;
+}
